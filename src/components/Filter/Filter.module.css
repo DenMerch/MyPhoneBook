@@ -1,0 +1,22 @@
+.input {
+    outline: none;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid rgba(33, 33, 33, .2);
+    height: 40px;
+    margin-top: 0;
+    padding-left: 42px;
+    transition: .25s cubic-bezier(.4, 0, .2, 1);
+    width: 500px;
+    border: 1px solid #4440F7;
+    border-radius: 20px;
+}
+
+
+
+.wrap {
+    width: 510px;
+    display: flex;
+    margin: 10px 0;
+    flex-direction: column;
+}
