@@ -2,7 +2,7 @@ import axios from "axios";
 import { createAsyncThunk } from "@reduxjs/toolkit";
 
 // axios.defaults.baseURL = 'https://connections-api.herokuapp.com';
-axios.defaults.baseURL = 'http://localhost:9000';
+axios.defaults.baseURL = 'https://test4-jq2r.onrender.com';
 
 const token = {
     set(token) {
